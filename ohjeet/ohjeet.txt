@@ -1,0 +1,1 @@
+Pelin ideana on kirjoittaa annettu teksti mahdollisimman nopeasti. Kirjoitettava teksti näkyy pelatessa ikkunan yläosassa ja seuraavaksi kirjoitettava kirjain tekstin alla. Pelikello lähtee käyntiin, kun kirjoitat ensimmäisen oikean kirjaimen ja pysähtyy, kun teksin viimeinen oikea kirjain on kirjoitettu. 
